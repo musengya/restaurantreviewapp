@@ -2,7 +2,7 @@
 
 
 ## Description
-This project was created as part of the Udacity Front End Web Developer Nanodegree.
+This project was created as part of the Udacity Front End Web Developer Nanodegree. The project is published at: https://musengya.github.io/restaurantreviewapp/.
 
 ### Instructions
 This project is a static webpage that lacks accessibility and should be converted to a responsive one to be used on different sized displays and should also be accessible for screen reader use. A service worker should be added to begin the process of creating a seamless offline experience for the users.
@@ -23,7 +23,7 @@ This project is a static webpage that lacks accessibility and should be converte
 
 ## License
 MIT
-Copyright(c) 2018 Irene Mutua
+Copyright (c) 2018 Irene Mutua
 
 
 
