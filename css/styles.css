@@ -53,7 +53,7 @@ nav {
   display: flex;
   width: 100%;
   height: 80px;
-  background-color: darkred;
+  background-color: yellow;
   text-align:center;
 }
 nav h1 {
@@ -61,7 +61,7 @@ nav h1 {
 }
 nav h1 a {
   color: #fff;
-  font-size: calc(0.45em + 2vmin);
+  font-size:1.4em;
   font-weight: 200;
   letter-spacing: 10px;
   text-transform: uppercase;
@@ -72,6 +72,7 @@ nav h1 a {
     background-color: #eee;
     font-size: 17px;
     margin: 0;
+    width: calc(50%-80px);
 }
 
 /* Display list items side by side */
@@ -89,7 +90,7 @@ nav h1 a {
 
 /* Add a color to all links inside the list */
 #breadcrumb li a {
-    color: darkred;
+    color:#0275d8;
     text-decoration: none;
 }
 
@@ -165,7 +166,7 @@ nav h1 a {
   min-width: 100%;
 }
 #restaurants-list li h1 {
-  color: darkred;
+  color:  #f18200;
   font-family: Arial,sans-serif;
   font-size: 1.3em;
   font-weight: 200;
@@ -183,7 +184,7 @@ nav h1 a {
   width: 55%;
 }
 #restaurants-list li a {
-  background-color: darkred;
+  background-color: orange;
   border-bottom: 3px solid #eee;
   color: #fff;
   display: inline-block;
@@ -220,7 +221,7 @@ nav h1 a {
   width: 100%;
 }
 #restaurant-name {
-  color: darkred;
+  color: #f18200;
   font-family: Arial,sans-serif;
   font-size: 2.0em;
   font-weight: 200;
@@ -256,7 +257,7 @@ nav h1 a {
   padding: 30px 40px 80px;
 }
 #reviews-container h2 {
-  color: darkred;
+  color: #f58500;
   font-size: 2.4em;
   font-weight: 300;
   letter-spacing: -1px;
@@ -293,7 +294,7 @@ nav h1 a {
   line-height: 1;
 }
 #reviews-list li p:nth-child(3) {
-  color: darkred;
+  color: #f58500;
   text-align: right;
 }
 #restaurant-hours td {
